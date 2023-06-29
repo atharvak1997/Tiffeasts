@@ -1,5 +1,4 @@
 # Tiffeasts
-# Tiffeasts
 
 <div align="center">
 <h1 align="center">
@@ -26,7 +25,6 @@
 - [📒 Table of Contents](#-table-of-contents)
 - [📍 Overview](#-overview)
 - [⚙️ Features](#-features)
-- [📂 Project Structure](#project-structure)
 - [🧩 Modules](#modules)
 - [🚀 Getting Started](#-getting-started)
 - [🗺 Roadmap](#-roadmap)
@@ -52,14 +50,6 @@ This application is a small effort of ours to bring a change in the food industr
 5. One time password request
 6. Email verification
 7. Upload photos to gallery
-
----
-
-
-## 📂 Project Structure
-
-
-
 
 ---
 
@@ -101,24 +91,6 @@ git clone https://github.com/shaunakc2013/Tiffeasts
 ```sh
 cd Tiffeasts
 ```
-
-3. Install the dependencies:
-```sh
-`ℹ️  INSERT-DESCRIPTION`
-```
-
-### 🎮 Using Tiffeasts
-
-```sh
-`ℹ️  INSERT-DESCRIPTION`
-```
-
-### 🧪 Running Tests
-```sh
-`ℹ️  INSERT-DESCRIPTION`
-```
-
----
 
 
 ## 🗺 Roadmap
